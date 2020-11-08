@@ -1,0 +1,1 @@
+[1] Chacon S. y Straub B. (2014) "Pro Git". Apress. https://git-scm.com/book/en/v2
